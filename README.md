@@ -20,7 +20,7 @@
 
 ### 🚀 Projects
 
-#### 🍡 Mochi — AAC Communication Tool *(In Development)*
+#### 🍡 AAC Communication Tool *(In Development)*
 > *Tap it. Say it. Mochi.*
 
 A symbol-based Augmentative and Alternative Communication (AAC) web app for non-verbal and minimally verbal users. Built with React, Flask, and Web Speech API. Designed to be fast, minimal, offline-first, and accessibility-first.
