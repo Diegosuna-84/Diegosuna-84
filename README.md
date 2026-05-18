@@ -2,7 +2,15 @@
 <h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" alt="Typing SVG" />
+
+  <!-- Laptop frame -->
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="600" />
+
+  <br/>
+
+  <!-- Typing animation inside “screen context” -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Mochi+%F0%9F%92%BB;Founder+of+Kado+Web+Studio+LLC" />
+
 </p>
 
 <p align="left">
