@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diego Osuna</h1>
 <h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1f1f1f&height=180&section=header&text=Diego%20Osuna&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=diegosuna-84&label=Profile%20views&color=111111&style=flat" alt="diegosuna-84" />
 </p>
