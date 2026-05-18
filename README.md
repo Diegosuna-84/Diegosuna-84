@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Osuna</h1>
 <h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
 
-<p align="center">
-
-<p align="center">
-
-  <!-- Laptop frame image -->
-  <img src="https://i.imgur.com/2QKx9yC.png" width="650"/>
-
-  <!-- Typing animation (acts like screen content) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" />
-
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" alt="Typing SVG" /> </p>
 
 ---
 
