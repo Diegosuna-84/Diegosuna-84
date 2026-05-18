@@ -3,18 +3,14 @@
 
 <p align="center">
 
-  <!-- Laptop frame -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="600" />
+<p align="center">
 
-  <br/>
+  <!-- Laptop frame image -->
+  <img src="https://i.imgur.com/2QKx9yC.png" width="650"/>
 
-  <!-- Typing animation inside “screen context” -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Mochi+%F0%9F%92%BB;Founder+of+Kado+Web+Studio+LLC" />
+  <!-- Typing animation (acts like screen content) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" />
 
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=diegosuna-84&label=Profile%20views&color=111111&style=flat" alt="diegosuna-84" />
 </p>
 
 ---
