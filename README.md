@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Diego Osuna</h1>
-<h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
+<p align="center">
+  <span style="font-size:32px; font-weight:700;">
+    Full Stack Developer
+  </span>
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+Mochi;Founder+of+Kado+Web+Studio+LLC;UI+%7C+Backend+%7C+Systems" />
+</p>
+
+<p align="center">
+  <b>Focused on building accessible, reliable tools that reach real users.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-002366?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mochi-App-0D0D0D?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kado_Web_Studio_LLC-002366?style=for-the-badge"/>
+</p>
 
 ---
 
