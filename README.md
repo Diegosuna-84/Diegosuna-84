@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Diego Osuna</h1>
 <h3 align="center">Full Stack Software Developer | Founder of Kado Web Studio LLC</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Mochi;Founder+of+Kado+Web+Studio+LLC" alt="Typing SVG" /> </p>
+<p align="center">
+
+<!-- HERO TITLE -->
+<h1 align="center">Full Stack Developer</h1>
+
+<!-- ANIMATED SUBTITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+Mochi;Founder+of+Kado+Web+Studio+LLC;UI+%7C+Backend+%7C+Systems" />
+
+<!-- BRAND LINE (STATIC, IMPORTANT FOR READING MEMORY) -->
+<p align="center">
+  <b>Obsessed with building accessible tools that actually ship.</b>
+</p>
+
+</p>
 
 ---
 
