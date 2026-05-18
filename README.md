@@ -83,12 +83,11 @@ A full-stack business discovery platform connecting users with local businesses.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Diegosuna-84&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="github stats"
-  />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Diegosuna-84&cache_seconds=1800"
+  alt="github stats"
+/>
 
   <img
     height="180em"
