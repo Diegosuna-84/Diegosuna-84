@@ -21,6 +21,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegosuna-84&label=Profile%20views&color=0e75b6&style=flat" alt="diegosuna-84" /> </p>
+
 ### 👨‍💻 About Me
 
 - 🎓 Certified Full Stack Software Developer — 4Geeks Academy Miami (360 hours)
