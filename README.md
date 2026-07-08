@@ -91,14 +91,6 @@ A full-stack business discovery platform connecting users with local businesses.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosuna-84&show_icons=true&locale=en&layout=compact&theme=dark" alt="diegosuna-84" />
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
@@ -109,10 +101,4 @@ A full-stack business discovery platform connecting users with local businesses.
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=diegosuna-84&theme=onestar&no-frame=true&no-bg=true&margin-w=15" alt="diegosuna-84" />
-  </a>
-</p>
