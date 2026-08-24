@@ -36,7 +36,7 @@
 
 ### 🚀 Projects
 
-#### 🐉 [The Great Hall](https://your-deployed-url-here) *(In Development)*
+#### 🐉 [The Great Hall](https://greathalltabletop.com/) *(In Development)*
 > *Your table, anywhere.*
 
 A full-stack D&D 5e companion app — live character sheets, an AI Dungeon Master, campaign chat, and built-in mini-games. Built with React, TypeScript, Vite, and Supabase.
