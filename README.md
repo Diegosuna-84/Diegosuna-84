@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+Mochi;Founder+of+Kado+Web+Studio+LLC;UI+%7C+Backend+%7C+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+Mochi;Founder+of+Kado+Web+Studio+LLC;UI+%7C+Backend+%7C+Systems+%7C+Data+Management+%7C+SQL+Integration+%7C+Infrastructure" />
 </p>
 
 <p align="center">
